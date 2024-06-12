@@ -154,4 +154,4 @@ work:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alex é um analista de controle de qualidade da UNIGGEL Sementes. Seus interesses incluem Ciência e Tecnologia de Sementes. Atualmente trabalha com análise de sementes de soja no Cerrado do Tocantins.
