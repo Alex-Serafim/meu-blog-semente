@@ -124,9 +124,9 @@ skills:
     percent: 80
   name: Hobbies
 status:
-  icon: ☕️
+  icon:
 superuser: true
-title: 吳健雄
+title: Alex
 work:
 - company_logo: ""
   company_name: GenCoin
