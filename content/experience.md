@@ -11,7 +11,7 @@ sections:
     is_education_first: false
 - block: resume-skills
   content:
-    title: Skills & Hobbies
+    title: Habilidades e Hobbies
     username: admin
   design:
     show_skill_percentage: false
