@@ -154,4 +154,4 @@ work:
 
 ## About Me
 
-Alex é um analista de controle de qualidade da UNIGGEL Sementes. Seus interesses incluem Ciência e Tecnologia de Sementes. Atualmente trabalha com análise de sementes de soja no Cerrado do Tocantins.
+Alex é analista de controle de qualidade da UNIGGEL Sementes. Seus interesses incluem Ciência e Tecnologia de Sementes. Atualmente trabalha com análise de sementes de soja no Cerrado do Tocantins.
