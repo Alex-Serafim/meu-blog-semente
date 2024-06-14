@@ -21,7 +21,7 @@ sections:
     username: admin
 - block: resume-languages
   content:
-    title: Languages
+    title: Idiomas
     username: admin
 title: Experience
 type: landing
